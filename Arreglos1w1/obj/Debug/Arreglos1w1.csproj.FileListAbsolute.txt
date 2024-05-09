@@ -1,0 +1,21 @@
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.exe.config
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.exe
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.pdb
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.csprojAssemblyReference.cache
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.Properties.Resources.resources
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.csproj.GenerateResource.cache
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.csproj.CoreCompileInputs.cache
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.exe
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.pdb
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.frmArreglo.resources
+D:\OscarBotta\Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.frmEmpleados.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.exe.config
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\bin\Debug\Arreglos1w1.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.frmArreglo.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.frmEmpleados.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\4-Clase 26A-08Arreglos1w1\Arreglos1w1\obj\Debug\Arreglos1w1.csproj.GenerateResource.Cache
